@@ -1,0 +1,32 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(15,18): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(15,15): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(19,19): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(19,16): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(20,21): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(20,18): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(21,23): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(21,20): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(22,23): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(22,20): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(23,23): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(23,20): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(24,23): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(24,20): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(28,19): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(28,16): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(29,21): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(29,18): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(30,27): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(30,24): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(31,23): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(31,20): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(32,27): warning C4305: =: усечение из "int" в "char"
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(32,24): warning C4309: =: усечение константного значения
+C:\Users\Admin\source\repos\# Space Invaders\Space Invaders\Source.cpp(201,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  3 of 124 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Space Invaders.vcxproj -> C:\Users\Admin\source\repos\# Space Invaders\Release\Space Invaders.exe

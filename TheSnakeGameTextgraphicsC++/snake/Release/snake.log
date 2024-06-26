@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\snake\snake\Source.cpp(44,17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Admin\source\repos\snake\snake\Source.cpp(61,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  0 of 130 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  snake.vcxproj -> C:\Users\Admin\source\repos\snake\Release\snake.exe

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\DataBase\Project14\Source.cpp(35,7): warning C4101: age: неиспользованная локальная переменная
+C:\Users\Admin\source\repos\DataBase\Project14\Source.cpp(75,28): warning C4101: CurrentCheck: неиспользованная локальная переменная
+C:\Users\Admin\source\repos\DataBase\Project14\Source.cpp(75,51): warning C4101: small: неиспользованная локальная переменная
+C:\Users\Admin\source\repos\DataBase\Project14\Source.cpp(343,13): warning C4101: current: неиспользованная локальная переменная
+  Project14.vcxproj -> C:\Users\Admin\source\repos\DataBase\Debug\Project14.exe
